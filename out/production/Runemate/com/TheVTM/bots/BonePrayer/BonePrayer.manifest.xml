@@ -1,0 +1,35 @@
+<manifest>
+    <main-class>com.TheVTM.bots.BonePrayer.BonePrayer</main-class>
+    <name>Bone Prayer</name>
+    <tag-line>Bot that loots and bury bones.</tag-line>
+    <description>Bot that loots and bury bones.</description>
+    <version>0.5.1</version>
+
+    <compatibility>
+        <game-type>RS3</game-type>
+        <game-type>OSRS</game-type>
+    </compatibility>
+
+    <categories>
+        <category>PRAYER</category>
+    </categories>
+
+    <internal-id>Bone Prayer</internal-id>
+
+    <open-source>true</open-source>
+    <hidden>false</hidden>
+    <access>public</access>
+
+    <tags>
+        <tag>Prayer</tag>
+        <tag>Bones</tag>
+        <tag>Bury</tag>
+    </tags>
+
+    <resources>
+        <resource>/com/TheVTM/bots/BonePrayer/GUI/layout.fxml</resource>
+        <resource>/com/TheVTM/bots/BonePrayer/log.properties</resource>
+        <resource>/com/TheVTM/bots/BonePrayer/log.dev.properties</resource>
+    </resources>
+
+</manifest>

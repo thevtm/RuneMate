@@ -1,0 +1,32 @@
+<manifest>
+    <main-class>com.TheVTM.bots.RainMaker.RainMaker</main-class>
+    <name>Rain Maker</name>
+    <tag-line>Casts Humidify to make money in any bank.</tag-line>
+    <description>Casts Humidify to make money and train magic in any bank. Currently only supports clay.</description>
+    <version>1.1.2</version>
+
+    <compatibility>
+        <game-type>OSRS</game-type>
+    </compatibility>
+
+    <categories>
+        <category>MAGIC</category>
+        <category>MONEYMAKING</category>
+    </categories>
+
+    <internal-id>RainMaker</internal-id>
+
+    <open-source>true</open-source>
+    <hidden>false</hidden>
+
+    <tags>
+        <tag>Clay</tag>
+        <tag>Soft clay</tag>
+        <tag>Humidify</tag>
+    </tags>
+
+    <resources>
+        <resource>/com/TheVTM/bots/RainMaker/GUI/layout.fxml</resource>
+    </resources>
+
+</manifest>

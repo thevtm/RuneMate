@@ -1,0 +1,13 @@
+{
+  "level": "info",
+  "disableCustomRules": false,
+  "customRules": {
+    "Foo":"all",
+    "Faa":"debug",
+    "Arg": "cRitical",
+    "Zagara": "info",
+    "com.TheVTM.bots.TestBot.TestBot": "critical",
+    "com.TheVTM.bots.TestBot.TestBot:onStart": "all",
+    "com.TheVTM.bots.TestBot.*": "error"
+  }
+}

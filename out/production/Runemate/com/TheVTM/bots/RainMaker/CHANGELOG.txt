@@ -1,0 +1,18 @@
+# Change Log
+
+## [1.1.1] - 2017-01-26
+### Fixed
+- Unable to start bot due to missing class definition.
+
+## [1.1.0] - 2017-01-23
+### Fixed
+- Major refactoring done.
+- Profit calculator is working as intended now.
+- Time to next level is working as intended now.
+
+## [1.0.1] - 2017-01-21
+### Fixed
+- Getting stuck when withdrawing 1 clay.
+
+## [1.0.0] - 2016-07-16
+### Initial Release.

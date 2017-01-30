@@ -1,0 +1,33 @@
+<manifest>
+    <main-class>com.TheVTM.bots.ClayWetanabe.ClayWetanabe</main-class>
+    <name>Clay Wetanabe</name>
+    <tag-line>Make soft clay manually on multiple locations.</tag-line>
+    <description>Combines water and clay to make soft clay on multiple locations.</description>
+    <version>0.1.0</version>
+
+    <compatibility>
+        <game-type>OSRS</game-type>
+    </compatibility>
+
+    <categories>
+        <category>MONEYMAKING</category>
+    </categories>
+
+    <internal-id>Clay Wetanabe</internal-id>
+
+    <open-source>true</open-source>
+    <hidden>true</hidden>
+    <access>false</access>
+
+    <tags>
+        <tag>Clay</tag>
+        <tag>Soft clay</tag>
+        <tag>Humidify</tag>
+    </tags>
+
+    <resources>
+        <resource>/com/TheVTM/bots/ClayWetanabe/log.dev.properties</resource>
+        <resource>/com/TheVTM/bots/ClayWetanabe/log.properties</resource>
+    </resources>
+
+</manifest>

@@ -1,0 +1,31 @@
+
+[CENTER][URL='https://www.runemate.com/community/resources/rain-maker.612/']Rain Maker[/URL]
+Casts Humidify to make money in any bank.
+[IMG]http://i.imgur.com/zZqQxtd.png[/IMG]
+[/CENTER]
+[B]Rates[/B]
+I usually get around 5000 to 7000 soft clay per hour wich translates to 250k to 350k gp/h approximately with a 50gp price difference for Soft/Hard clay.
+It performs about half the speed a human would achieve. Its mostly hindered by the amount of miss clicking when banking. This is an issue with RuneMate, not this bot in particular.
+
+[B]Known bugs[/B]
+[LIST]
+[*]Miss clicking when banking.
+[/LIST]
+[B]Changelog[/B]
+[quote]
+# Change Log
+
+## [1.1.0] - 2017-01-23
+### Fixed
+- Major refactoring done.
+- Profit calculator is working as intended now
+- Time to next level is working as intended now
+
+## [1.0.1] - 2017-01-21
+### Fixed
+- Getting stuck when withdrawing 1 clay.
+
+## [1.0.0] - 2016-07-16
+### Initial Release
+[/quote]
+

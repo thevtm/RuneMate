@@ -1,0 +1,32 @@
+<manifest>
+    <main-class>com.TheVTM.bots.TestBot.TestBot</main-class>
+    <name>Test Bot</name>
+    <tag-line>Made for testing stuff.</tag-line>
+    <description>Testing stuff is awesome.</description>
+    <version>1.0.0</version>
+
+    <compatibility>
+        <game-type>OSRS</game-type>
+        <game-type>RS3</game-type>
+    </compatibility>
+
+    <categories>
+        <category>DEVELOPMENT</category>
+    </categories>
+
+    <internal-id>VTM-TEST-BOT</internal-id>
+
+    <open-source>true</open-source>
+    <hidden>true</hidden>
+
+    <tags>
+        <tag>Test</tag>
+        <tag>Bot</tag>
+        <tag>Tests</tag>
+    </tags>
+
+    <resources>
+        <resource>/com/TheVTM/bots/TestBot/log.config.json</resource>
+    </resources>
+
+</manifest>
